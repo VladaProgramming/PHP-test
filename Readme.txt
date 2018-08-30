@@ -1,0 +1,3 @@
+- Import the "users.sql" into the mysql database, the database parameters are in the server.php file on line 10
+- Start the apache server
+- Navigate in the browser to the home navigation "http://localhost/PHP-test/home.php"
